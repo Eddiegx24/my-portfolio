@@ -1,0 +1,50 @@
+header{
+
+    background-color: grey;
+    padding: 1%;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+body{
+    background-color: black;
+}
+
+.heading{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 5%;
+}
+
+
+.ptag{
+    text-align: left;
+    color: whitesmoke;
+    padding-left: 1%;
+    padding-right: 10%;
+}
+
+.Twitter{
+    text-align: left;
+    color: white;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-size: 35px;
+}
+
+.IG{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+
+
+}
+
+.podcast{
+    text-align: right;
+    color: whitesmoke;
+    padding-right: 5%;
+    font-size: 35px;
+
+}
